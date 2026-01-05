@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>WORK IN PROGRESS</b>
+- <b>#[Microsoft Sentinel – Identity Brute Force Detection Lab](https://github.com/Vaelinn111/microsoft-sentinel-identity-brute-force-lab/blob/main/README.md)</b>
 
   
 <h2>📄 Certifications :</h2>
