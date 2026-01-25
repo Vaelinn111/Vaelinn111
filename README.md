@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Microsoft Sentinel – Identity Brute Force Detection Lab](https://github.com/Vaelinn111/microsoft-sentinel-identity-brute-force-lab/blob/main/README.md)</b>
+- <b>[Microsoft Sentinel: Identity Brute Force Detection Lab](https://github.com/Vaelinn111/microsoft-sentinel-identity-brute-force-lab/blob/main/README.md)</b>
 
+- <b>[VirtualBox Telemetry Lab: Detecting Encoded PowerShell](https://github.com/Vaelinn111/windows-endpoint-telemetry-detection)</b>
   
 <h2>📄 Certifications :</h2>
 
